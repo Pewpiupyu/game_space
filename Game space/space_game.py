@@ -19,5 +19,4 @@ def run():
             gun.output()
             pygame.display.flip()
 
-
 run()
